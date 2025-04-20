@@ -11,7 +11,7 @@
 </div>
 
 <p align="center">
-  <img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://muslimah-a6860.web.app/static/media/banner-gif%20(2).3e3fb56128052f7f05c5.gif)](https://ugc.production.linktr.ee/f95b8687-4977-4bb4-bfa2-637c35277ef0_giphy.gif)" />
+  <img align="right" height="250" width="400" src="https://ugc.production.linktr.ee/f95b8687-4977-4bb4-bfa2-637c35277ef0_giphy.gif" />
 </p>
 
 - 🔭 I’m currently working on **enhancing my full stack skills through mini projects**
