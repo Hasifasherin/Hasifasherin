@@ -14,12 +14,12 @@
   <img align="right" height="250" width="400" src="https://ugc.production.linktr.ee/f95b8687-4977-4bb4-bfa2-637c35277ef0_giphy.gif" />
 </p>
 
- 🔭 I’m currently working on **enhancing my full stack skills through mini projects**
- 🌱 I’m currently learning **React, Node.js, and backend development**
- 👯 I’m looking to collaborate on **simple full stack or IoT projects**
- 🤝 I’m looking for help with **contributing to open source**
- 💬 Ask me about **HTML, CSS, JavaScript, basic IoT, and Arduino**
- 📫 How to reach me: **hasifasherincp@gmail.com**
+ - 🔭 I’m currently working on **enhancing my full stack skills through mini projects**
+ - 🌱 I’m currently learning **React, Node.js, and backend development**
+ - 👯 I’m looking to collaborate on **simple full stack or IoT projects**
+ - 🤝 I’m looking for help with **contributing to open source**
+ - 💬 Ask me about **HTML, CSS, JavaScript, basic IoT, and Arduino**
+ - 📫 How to reach me: **hasifasherincp@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
